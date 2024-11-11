@@ -1,0 +1,68 @@
+<!--services-->
+<section class="agile-services" id="services">
+<h4 class="header">our services</h4>
+	<div class="line"></div>
+	<div class="service-gridmain">
+<div class="services-grids">
+	<div class="col-md-4 service-grid">
+		<div class="service-icon">
+			<span><i class="fa fa-graduation-cap" aria-hidden="true"></i></span>
+		</div>
+		<div class="service-text">
+			<h4>scholarship</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam deleniti amet quia voluptate laboriosam</p>
+		</div>
+	</div>
+	<div class="col-md-4 service-grid">
+		<div class="service-icon">
+			<span><i class="fa fa-book" aria-hidden="true"></i></span>
+		</div>
+		<div class="service-text">
+			<h4>book publishing</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam deleniti amet quia voluptate laboriosam</p>
+		</div>
+	</div>
+	<div class="col-md-4 service-grid">
+		<div class="service-icon">
+			<span><i class="fa fa-sellsy" aria-hidden="true"></i></span>
+		</div>
+		<div class="service-text">
+			<h4>best edu care</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam deleniti amet quia voluptate laboriosam</p>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+	<div class="services-grids02">
+	<div class="col-md-4 service-grid">
+		<div class="service-icon">
+			<span><i class="fa fa-user" aria-hidden="true"></i></span>
+		</div>
+		<div class="service-text">
+			<h4>Experienced Faculty</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam deleniti amet quia voluptate laboriosam</p>
+		</div>
+	</div>
+	<div class="col-md-4 service-grid">
+		<div class="service-icon">
+			<span><i class="fa fa-taxi" aria-hidden="true"></i></span>
+		</div>
+		<div class="service-text">
+			<h4>transportation</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam deleniti amet quia voluptate laboriosam</p>
+		</div>
+	</div>
+	<div class="col-md-4 service-grid">
+		<div class="service-icon">
+			<span><i class="fa fa-code" aria-hidden="true"></i></span>
+		</div>
+		<div class="service-text">
+			<h4>online classes</h4>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam deleniti amet quia voluptate laboriosam</p>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+</div>
+</section>
+<!--/services-->
